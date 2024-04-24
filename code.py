@@ -1,5 +1,4 @@
 import RPi.GPIO as GPIO
-import RPi.GPIO as GPIO
 import time
 # Use VOX at a low setting, just enough for the morse code to trigger it but not too much
 # YOU NEED A LICENSE TO TRANSMIT ON THE HAM BANDS. YOU ARE RESPONSIBLE IF YOU DO NOT HAVE A LICENSE
